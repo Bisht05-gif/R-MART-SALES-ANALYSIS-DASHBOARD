@@ -1,4 +1,4 @@
-# 📊 R-Mart Sales Analysis Dashboard
+# 📊 R-Mart Sales Analysis Dashboard (POWER BI PROJECT)
 
 ## 📌 Project Overview
 
